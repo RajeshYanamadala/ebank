@@ -1,0 +1,19 @@
+.header-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.log-out-button {
+  height: 30px;
+
+  background-color: transparent;
+  border: #ffffff 1px solid;
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Roboto';
+  cursor: pointer;
+}
